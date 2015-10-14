@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=P13-2
+Change Component DesignItemId : Designator=P13 Old DesignItemId=Header 2 New DesignItemId=2P Screw Terminal 5.08mm
+Change Component Footprint: Designator=P13 Old Footprint=HDR1X2 New Footprint=2P 5.08mm Screw Terminal
+Added Pin To Net: NetName=VCC Pin=P13-0

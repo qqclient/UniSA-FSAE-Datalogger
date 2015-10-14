@@ -1,0 +1,5 @@
+Added Component: Designator=Q2(SOT523F)
+Added Pin To Net: NetName=BAT_READING Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetP23_1 Pin=Q2-3
+Added Member To Class: ClassName=datalogger Member=Component Q2 P-Channel

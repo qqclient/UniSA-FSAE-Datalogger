@@ -1,0 +1,4 @@
+Added Component: Designator=P13(2P 5.08mm Screw Terminal)
+Added Pin To Net: NetName=VCC Pin=P13-0
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Member To Class: ClassName=datalogger Member=Component P13 Power

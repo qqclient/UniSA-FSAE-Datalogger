@@ -1,0 +1,7 @@
+Added Component: Designator=P?(HDR1X2)
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=BAT_READING Pin=Q2-1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=Q2-3
+Added Net: Name=NetP?_2
+Added Member To Class: ClassName=datalogger Member=Component P? BAT

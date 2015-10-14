@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Pin From Net: NetName=5V Pin=U?-18
+Change Component Comment : Designator=P1 Old Comment=Header 3 New Comment=WS2812_1
+Change Component Comment : Designator=P3 Old Comment=Header 3 New Comment=WS2812_2
+Change Component Comment : Designator=P4 Old Comment=Header 3 New Comment=WS2812_3
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=5V Pin=U?-18
+Added Member To Class: ClassName=datalogger Member=Component U1 Arduino Mega board footprint

@@ -1,0 +1,14 @@
+Added Component: Designator=U?(SO-18W)
+Added Pin To Net: NetName=CAN_TXD Pin=U?-1
+Added Pin To Net: NetName=CAN_RXD Pin=U?-2
+Added Pin To Net: NetName=NetC2_1 Pin=U?-7
+Added Pin To Net: NetName=NetC1_1 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=CAN_INT Pin=U?-12
+Added Pin To Net: NetName=SCK Pin=U?-13
+Added Pin To Net: NetName=MOSI Pin=U?-14
+Added Pin To Net: NetName=MISO Pin=U?-15
+Added Pin To Net: NetName=CAN_CS Pin=U?-16
+Added Pin To Net: NetName=RS Pin=U?-17
+Added Pin To Net: NetName=5V Pin=U?-18
+Added Member To Class: ClassName=datalogger Member=Component U? MCP2515

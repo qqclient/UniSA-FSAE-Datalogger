@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=R17-2
+Added Pin To Net: NetName=BUTTON_LED Pin=R17-2
+Added Pin To Net: NetName=BUTTON_LED Pin=SHIELD-2
+Added Net: Name=BUTTON_LED

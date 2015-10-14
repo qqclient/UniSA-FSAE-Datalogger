@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=SD_CS Pin=P5-5
+Removed Pin From Net: NetName=SD_CS Pin=SHIELD-43
+Added Component: Designator=P17(HDR1X8)
+Added Component: Designator=P18(HDR1X2)
+Added Component: Designator=P19(HDR1X2)
+Added Component: Designator=P20(HDR1X2)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R13(J1-0603)
+Added Pin To Net: NetName=SD_CS Pin=P17-2
+Added Pin To Net: NetName=MOSI Pin=P17-3
+Added Pin To Net: NetName=MISO Pin=P17-4
+Added Pin To Net: NetName=SCK Pin=P17-5
+Added Pin To Net: NetName=GND Pin=P17-6
+Added Pin To Net: NetName=5V Pin=P17-8
+Added Pin To Net: NetName=GND Pin=P18-1
+Added Pin To Net: NetName=GND Pin=P19-1
+Added Pin To Net: NetName=GND Pin=P20-1
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=5V Pin=R11-1
+Added Pin To Net: NetName=5V Pin=R12-1
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=BUTTON_1 Pin=P18-2
+Added Pin To Net: NetName=BUTTON_1 Pin=R11-2
+Added Net: Name=BUTTON_1
+Added Pin To Net: NetName=BUTTON_2 Pin=P19-2
+Added Pin To Net: NetName=BUTTON_2 Pin=R12-2
+Added Net: Name=BUTTON_2
+Added Pin To Net: NetName=BUTTON_3 Pin=P20-2
+Added Pin To Net: NetName=BUTTON_3 Pin=R13-2
+Added Net: Name=BUTTON_3
+Added Pin To Net: NetName=OLED_SD_CS Pin=P5-5
+Added Net: Name=OLED_SD_CS
+Added Pin To Net: NetName=SD_CD Pin=P17-1
+Added Pin To Net: NetName=SD_CD Pin=R10-1
+Added Pin To Net: NetName=SD_CD Pin=SHIELD-40
+Added Net: Name=SD_CD
+Added Member To Class: ClassName=datalogger Member=Component P17 MicroSD Breakout
+Added Member To Class: ClassName=datalogger Member=Component P18 Button1
+Added Member To Class: ClassName=datalogger Member=Component P19 Button2
+Added Member To Class: ClassName=datalogger Member=Component P20 Button3
+Added Member To Class: ClassName=datalogger Member=Component R10 Res3
+Added Member To Class: ClassName=datalogger Member=Component R11 10K
+Added Member To Class: ClassName=datalogger Member=Component R12 10K
+Added Member To Class: ClassName=datalogger Member=Component R13 10K

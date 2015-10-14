@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BAT_READING Pin=R18-1
+Removed Pin From Net: NetName=BAT_LEVEL Pin=R18-2
+Change Component Comment : Designator=R19 Old Comment=12K New Comment=4K
+Change Component Comment : Designator=R18 Old Comment=12K New Comment=10K
+Change Component Comment : Designator=U2 Old Comment=CAN transceiver New Comment=MCP2551
+Change Component Comment : Designator=P15 Old Comment=I2C New Comment=I2C_1
+Added Component: Designator=P25(HDR1X4)
+Added Pin To Net: NetName=SCL Pin=P25-1
+Added Pin To Net: NetName=SDA Pin=P25-2
+Added Pin To Net: NetName=5V Pin=P25-3
+Added Pin To Net: NetName=GND Pin=P25-4
+Added Pin To Net: NetName=BAT_LEVEL Pin=R18-1
+Added Pin To Net: NetName=BAT_READING Pin=R18-2
+Added Member To Class: ClassName=datalogger Member=Component P25 I2C_2

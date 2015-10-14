@@ -1,0 +1,8 @@
+Added Component: Designator=R3(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=BAT_LEVEL Pin=R3-1
+Added Pin To Net: NetName=BAT_LEVEL Pin=R3-2
+Added Pin To Net: NetName=BAT_LEVEL Pin=SHIELD-A13
+Added Net: Name=BAT_LEVEL

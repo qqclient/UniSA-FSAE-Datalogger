@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=THERM1 Pin=SHIELD-A9
+Removed Pin From Net: NetName=THERM2 Pin=SHIELD-A10
+Removed Pin From Net: NetName=THERM3 Pin=SHIELD-A11
+Removed Pin From Net: NetName=THERM4 Pin=SHIELD-A12
+Added Pin To Net: NetName=THERM4 Pin=SHIELD-A9
+Added Pin To Net: NetName=THERM3 Pin=SHIELD-A10
+Added Pin To Net: NetName=THERM2 Pin=SHIELD-A11
+Added Pin To Net: NetName=THERM1 Pin=SHIELD-A12

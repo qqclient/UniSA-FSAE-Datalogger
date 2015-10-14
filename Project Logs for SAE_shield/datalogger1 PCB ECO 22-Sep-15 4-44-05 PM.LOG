@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=D1 Old DesignItemId=Diode 1N5401 New DesignItemId=Diode
+Change Component Footprint: Designator=D1 Old Footprint=DO-201AD New Footprint=SMC
+Change Component Comment : Designator=D1 Old Comment=Diode 1N5401 New Comment=Diode

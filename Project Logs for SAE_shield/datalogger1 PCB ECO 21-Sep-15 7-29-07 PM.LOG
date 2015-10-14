@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=WS2812_1 Pin=SHIELD-22
+Added Pin To Net: NetName=WS2812_1 Pin=SHIELD-5

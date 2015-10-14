@@ -1,0 +1,3 @@
+Added Member To Class: ClassName=datalogger Member=Component U1 MCP2515
+Added Member To Class: ClassName=datalogger Member=Component U2 CAN transceiver
+Added Room: Name=datalogger

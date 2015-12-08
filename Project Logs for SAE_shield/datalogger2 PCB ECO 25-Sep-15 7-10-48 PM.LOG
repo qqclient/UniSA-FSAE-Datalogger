@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=5V Pin=LED1-A
-Removed Pin From Net: NetName=NetLED1_C Pin=LED1-C
-Removed Pin From Net: NetName=GND Pin=R3-1
-Removed Pin From Net: NetName=NetLED1_C Pin=R3-2
-Added Pin To Net: NetName=NetLED1_C Pin=LED1-A
-Added Pin To Net: NetName=GND Pin=LED1-C
-Added Pin To Net: NetName=NetLED1_C Pin=R3-1
-Added Pin To Net: NetName=5V Pin=R3-2
-Change Net Name : Old Net Name=NetLED1_C New Net Name=NetLED1_A

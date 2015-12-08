@@ -1,8 +1,0 @@
-Added Component: Designator=R7(J1-0603)
-Added Component: Designator=R8(J1-0603)
-Added Pin To Net: NetName=SDA Pin=R7-1
-Added Pin To Net: NetName=5V Pin=R7-2
-Added Pin To Net: NetName=SCL Pin=R8-1
-Added Pin To Net: NetName=5V Pin=R8-2
-Added Member To Class: ClassName=datalogger Member=Component R7 Res3
-Added Member To Class: ClassName=datalogger Member=Component R8 Res3

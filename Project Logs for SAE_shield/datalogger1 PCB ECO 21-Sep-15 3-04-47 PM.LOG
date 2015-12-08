@@ -1,7 +1,0 @@
-Change Component Comment : Designator=P6 Old Comment=Header 3 New Comment=ANALOG_1
-Change Component Comment : Designator=P7 Old Comment=Header 3 New Comment=ANALOG_2
-Change Component Comment : Designator=P8 Old Comment=Header 3 New Comment=ANALOG_3
-Change Component Comment : Designator=P9 Old Comment=Header 3 New Comment=ANALOG_4
-Change Component Comment : Designator=P10 Old Comment=Header 3 New Comment=ANALOG_5
-Change Component Comment : Designator=P12 Old Comment=Header 3 New Comment=ANALOG_6
-Added Member To Class: ClassName=datalogger Member=Component U10 Arduino Mega board footprint

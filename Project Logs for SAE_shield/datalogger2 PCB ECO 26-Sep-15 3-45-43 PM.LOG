@@ -1,9 +1,0 @@
-Added Component: Designator=P19(HDR1X2)
-Added Component: Designator=R17(J1-0603)
-Added Pin To Net: NetName=GND Pin=P19-2
-Added Pin To Net: NetName=5V Pin=R17-2
-Added Pin To Net: NetName=NetP19_1 Pin=P19-1
-Added Pin To Net: NetName=NetP19_1 Pin=R17-1
-Added Net: Name=NetP19_1
-Added Member To Class: ClassName=datalogger Member=Component P19 Button LED
-Added Member To Class: ClassName=datalogger Member=Component R17 150R

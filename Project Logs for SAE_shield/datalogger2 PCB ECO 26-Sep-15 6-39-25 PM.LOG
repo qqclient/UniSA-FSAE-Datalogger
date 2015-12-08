@@ -1,8 +1,0 @@
-Added Component: Designator=R3(J1-0603)
-Added Component: Designator=R18(J1-0603)
-Added Pin To Net: NetName=NetLED1_A Pin=R3-1
-Added Pin To Net: NetName=5V Pin=R3-2
-Added Pin To Net: NetName=BAT_LEVEL Pin=R18-1
-Added Pin To Net: NetName=VCC Pin=R18-2
-Added Member To Class: ClassName=datalogger Member=Component R3 Res3
-Added Member To Class: ClassName=datalogger Member=Component R18 12K

@@ -1,4 +1,0 @@
-Added Component: Designator=P24(HDR1X2)
-Added Pin To Net: NetName=GND Pin=P24-1
-Added Pin To Net: NetName=5V Pin=P24-2
-Added Member To Class: ClassName=datalogger Member=Component P24 AUX-POWER

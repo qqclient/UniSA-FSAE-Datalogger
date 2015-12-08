@@ -1,6 +1,0 @@
-Added Component: Designator=P15(HDR1X4)
-Added Pin To Net: NetName=5V Pin=P15-1
-Added Pin To Net: NetName=GND Pin=P15-2
-Added Pin To Net: NetName=SDA Pin=P15-3
-Added Pin To Net: NetName=SCL Pin=P15-4
-Added Member To Class: ClassName=datalogger Member=Component P15 Thermopile
